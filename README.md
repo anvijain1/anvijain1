@@ -12,20 +12,6 @@ Building things, experimenting with AI, and learning something new every day.
 
 ---
 
-### `$ about_me`
-
-- 🎓 Computer Science Engineering Student
-- 🤖 Exploring AI, Machine Learning & Generative AI
-- 💻 Currently learning C++ and DSA
-- 🚀 Interested in building real-world applications
-
-### `$ tech_stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nextjs,tailwind,nodejs,supabase,git,mysql&theme=dark" />
-
-</div>
 
 ---
 
