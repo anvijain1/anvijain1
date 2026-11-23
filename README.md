@@ -24,8 +24,9 @@ Building things, experimenting with AI, and learning something new every day.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nextjs,tailwind,nodejs,supabase,git,mysql&theme=dark" />
+</div>
 
-```</div>
+```
 
 ### `$ featured_projects`
 
