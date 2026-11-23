@@ -25,7 +25,7 @@ Building things, experimenting with AI, and learning something new every day.
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nextjs,tailwind,nodejs,supabase,git,mysql&theme=dark" />
 
-</div>
+```</div>
 
 ### `$ featured_projects`
 
@@ -41,6 +41,7 @@ Building things, experimenting with AI, and learning something new every day.
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvijain1&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
+``` 
 
 ### `$ my_github_ocean` 🐟
 
