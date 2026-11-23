@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hey, I'm Anvi Jain 👋
 
@@ -24,25 +24,10 @@ Building things, experimenting with AI, and learning something new every day.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nextjs,tailwind,nodejs,supabase,git,mysql&theme=dark" />
-</div>
-
-```
-
-### `$ featured_projects`
-
-- **Street Eats** — Street food discovery platform
-- **Voice AI** — Multilingual voice model experiments
-- **MCP Server** — E-commerce dataset query server
-
-### `$ github_activity`
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anvijain1&show_icons=true&theme=github_dark&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvijain1&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
-``` 
+
+---
 
 ### `$ my_github_ocean` 🐟
 
@@ -61,4 +46,3 @@ Building things, experimenting with AI, and learning something new every day.
 **Thanks for stopping by!**
 
 </div>
-
